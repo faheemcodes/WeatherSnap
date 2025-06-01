@@ -40,6 +40,6 @@ A clean, minimalist weather application that provides real-time weather data for
 To run locally:
 
 ```bash
-git clone [repository-url]
+git clone https://github.com/faheemcodes/WeatherSnap.git
 cd WeatherSnap
 # Open index.html in your browser
