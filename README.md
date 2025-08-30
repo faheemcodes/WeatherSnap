@@ -2,9 +2,6 @@
 
 A sophisticated weather application that provides real-time weather data and 6-day forecasts for any city worldwide. Features a professional design with a fixed header and comprehensive weather information.
 
-![WeatherSnap](https://img.shields.io/badge/WeatherSnap-Professional-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
 ## ✨ Features
 
 - 🌍 **Global City Search** - Find weather information for any city worldwide
