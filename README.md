@@ -17,7 +17,7 @@ A sophisticated weather application that provides real-time weather data and 6-d
 
 ## 🚀 Live Demo
 
-Check out the live application here: [WeatherSnap Live Demo](https://your-deployment-link.com)
+Check out the live application here: [WeatherSnap Live Demo](https://faheemcodes.github.io/WeatherSnap/ )
 
 ## 📸 Screenshots
 
