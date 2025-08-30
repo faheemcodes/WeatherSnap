@@ -62,12 +62,11 @@ You can customize the app by modifying the CSS variables in the `:root` selector
 
 ```css
 :root {
-  --primary: #1a4b8c;    /* Primary color */
-  --secondary: #2d76d9;  /* Secondary color */
-  --accent: #34b3f1;     /* Accent color */
-  --light: #f0f7ff;      /* Light color */
-  --dark: #0e2a47;       /* Dark color */
-}
+  --primary: #4b0000;
+  --secondary: #f08080;
+  --accent: #d43737;
+  --light: #f0f7ff;
+  --dark: #0e2a47;    
 ```
 
 <div align="center">
